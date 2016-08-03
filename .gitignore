@@ -7,3 +7,5 @@ logs/
 docs/*.txt
 
 *.bin
+
+license.txt
